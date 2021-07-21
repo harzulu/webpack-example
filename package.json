@@ -1,0 +1,27 @@
+{
+  "name": "webpack-example",
+  "version": "1.0.0",
+  "description": "This is an example of webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harzulu/webpack-example.git"
+  },
+  "keywords": [
+    "webpack",
+    "example"
+  ],
+  "author": "Ben McFarland",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/harzulu/webpack-example/issues"
+  },
+  "homepage": "https://github.com/harzulu/webpack-example#readme",
+  "devDependencies": {
+    "webpack": "4.39.3",
+    "webpack-cli": "^3.3.8"
+  }
+}
